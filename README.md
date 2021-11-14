@@ -8,7 +8,7 @@ Comentários sobre o funcionamento da API:
 
 - Fontes disponíveis: bbc, euronews, foxnews, livescience, cnn, nytimes, abcnews
 
-- Decidi criar um front-end para a aplicação mas tem os seguintes problemas:
+- Decidi criar um front-end para a aplicação através do url http://localhost:8000 mas tem os seguintes problemas:
 
   - Ao carregar a página pela primeira vez, não vão aparecer notícias, isto é resolvido quando se recarrega a página.
   Não encontrei solução para este problema, poderá ser resolvido numa nova versão quando tiver mais conhecimentos.
